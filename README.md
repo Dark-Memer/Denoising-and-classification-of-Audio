@@ -3,6 +3,8 @@ Denoising and classification of Audio dataset (mel-spectograms) using Unet
 
 Первое задание = First_task
 
+Meta-файлы = папка meta
+
 Задача Denoising и classification решалась на двумя способами:
 
 1) Без использования pythorch lightning
@@ -23,9 +25,12 @@ Denoising and classification of Audio dataset (mel-spectograms) using Unet
 
 Гиперпараметры:
 
-model encoder   resnet18
-learning rate   0.0001
-batch size      32
-epoch           50
+1) model encoder   resnet18
+2) learning rate   0.0001
+3) batch size      32
+4) epoch           50
 
+Результаты:
 
+1) MSE = 0.0278
+2) Accuracy = 0.991
