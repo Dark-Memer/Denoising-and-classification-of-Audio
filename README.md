@@ -23,7 +23,9 @@ Denoising and classification of Audio dataset (mel-spectograms) using Unet
 
 Гиперпараметры:
 
- model_encoder: resnet18
- learning_rate: 0.0001
- batch_size: 32
- epochs: 50
+model encoder   resnet18
+learning rate   0.0001
+batch size      32
+epoch           50
+
+
