@@ -1,7 +1,7 @@
 # Denoising-and-classification-of-Audio
 Denoising and classification of Audio dataset (mel-spectograms) using Unet
 
-Первое задание = first task
+Первое задание = First_task
 
 Задача Denoising и classification решалась на двумя способами:
 
